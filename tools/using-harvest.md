@@ -1,5 +1,16 @@
 ##Using Harvest
 
+###Table of Contents
+- [Introduction](#introduction)
+- [Submitting Your Timesheet](#submitting-your-timesheet)
+- [Harvest Timer Options](#harvest-timer-options)
+- [Jira Integration](#jira-integration)
+- [Trello Integration](#trello-integration)
+- [Other Add-ons](#other-add-ons)
+- [Tracking Expenses](#tracking-expenses)
+- [Tracking Paid Time Off](#tracking-paid-time-off)
+- [Harvest Phone App](#harvest-phone-app)
+
 ###Introduction
 
 ###Submitting Your Timesheet
@@ -56,7 +67,7 @@ Here is a quick overview of the expenses feature in Harvest:
   - EMAIL Judy that you have expenses in Harvest for her review
   - [ADD SCREENSHOTS]
 
-###Tracking Paid Time Off (PTO)
+###<a name="tracking-paid-time-off"></a>Tracking Paid Time Off (PTO)
 
   We track vacation, leave and sick time and leave for employees in Harvest. There is oversight on this, but ultimately you are responsible for this accuracy. PTO will not negatively impact your billable hour percentage. 
 
