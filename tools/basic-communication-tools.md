@@ -2,7 +2,7 @@
 
 ###Introduction
 
-###Slack
+###[Slack](slack)
 
 ###Google Apps
 
