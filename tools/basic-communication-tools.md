@@ -2,8 +2,8 @@
 
 ###Introduction
 
-###[Slack](slack)
+###<a name="slack"></a>Slack
 
-###Google Apps
+###<a name="google-apps"></a>Google Apps
 
-###Telephone Use
+###<a name="telephone-use"></a>Telephone Use
