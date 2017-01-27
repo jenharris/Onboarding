@@ -2,6 +2,7 @@
 
 ###Table of Contents
 - [Introduction](#introduction)
+- [Update Your Profile](#update-your-profile)
 - [Submitting Your Timesheet](#submitting-your-timesheet)
 - [Harvest Timer Options](#harvest-timer-options)
 - [Jira Integration](#jira-integration)
@@ -14,6 +15,15 @@
 ###Introduction
 
 Harvest is an easy-to-use web app that allows us to track and allocate time and expenses for different projects. As an employee, you're responsible for reporting your own time and expenses. Time should be tracked daily and in appropriate categories. Optional approaches include Jira and Trello integrations and a mobile app.
+
+###Update Your Profile
+
+Your Harvest login will be your email address: first.last@civicactions.com. Check your email for an invitation!
+Then:
+ - confirm that you can sign in to Harvest (https://civicactions.harvestapp.com/)
+ - upload a photo of yourself
+ - check to make sure that your time zone is correct
+ - if you know which project(s) you'll be working on, make sure that they're correct
 
 ###Submitting Your Timesheet
   - Go to https://civicactions.harvestapp.com/time
