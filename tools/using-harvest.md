@@ -1,6 +1,6 @@
-##Using Harvest
+## Using Harvest
 
-###Table of Contents
+### Table of Contents
 - [Introduction](#introduction)
 - [Update Your Profile](#update-your-profile)
 - [Submitting Your Timesheet](#submitting-your-timesheet)
@@ -12,11 +12,11 @@
 - [Tracking Paid Time Off](#tracking-paid-time-off)
 - [Harvest Phone App](#harvest-phone-app)
 
-###Introduction
+### Introduction
 
 Harvest is an easy-to-use web app that allows us to track and allocate time and expenses for different projects. As an employee, you're responsible for reporting your own time and expenses. Time should be tracked daily and in appropriate categories. Optional approaches include Jira and Trello integrations and a mobile app.
 
-###Update Your Profile
+### Update Your Profile
 
 Your Harvest login will be your email address: first.last@civicactions.com. Check your email for an invitation!
 Then:
@@ -25,15 +25,18 @@ Then:
  - check to make sure that your time zone is correct
  - if you know which project(s) you'll be working on, make sure that they're correct
 
-###Submitting Your Timesheet
+### Submitting Your Timesheet
   - Go to https://civicactions.harvestapp.com/time
   - Submit your timesheet at the end of day on Monday
   - For the remaining days in the week “re-submit” the timesheet EACH DAY
   - Put description of work in each entry and ensure that you’ve selected correct project and role
   - Track your time in increments of 15 minutes, rounded up per CivicActions protocol
-  - [ADD SCREENSHOTS]
 
-###Harvest Timer Options
+![Harvest screenshot 2](../images/harvest02.png)
+
+![Harvest screenshot 1](../images/harvest01.png)
+
+### Harvest Timer Options
   - Mac: https://www.getharvest.com/mac
   - Windows: http://trackerr.co/
   - Linux: https://github.com/lionheart/TimeTracker-Linux
@@ -42,7 +45,7 @@ Then:
   - Per OWEN: wire https://github.com/zenhob/hcl up to your window manager, so it starts/stops timers automatically when you switch workspaces
   - There are also Harvest plugins for Jira & Trello
 
-###Jira Integration
+### Jira Integration
 
 The Harvest plugin in Jira is located along the right column of a ticket. Currently it does NOT update your time in the “Jira Time Tracking” section, but only logs time in Harvest from Jira.
 
@@ -50,16 +53,24 @@ You must add time to BOTH Harvest plugin & update the Time Tacking section in Ji
 
 [ADD SCREENSHOTS]
 
-###Trello Integration
+### Trello Integration
 
 The Trello integration will require that you install the Chrome extension found here: https://www.getharvest.com/trello You can then log time directly from Chrome, as well as Trello cards. You may need to refresh or log out/into Trello to see the “Track Time” action.
 
-[ADD SCREENSHOTS]
+![Harvest screenshot 3](../images/harvest03.png)
 
-###Other Add-ons
+![Harvest screenshot 4](../images/harvest04.png)
+
+![Harvest screenshot 5](../images/harvest05.png)
+
+![Harvest screenshot 6](../images/harvest06.png)
+
+![Harvest screenshot 7](../images/harvest07.png)
+
+### Other Add-ons
   - Harvest has some other plugins & add-ons found here: https://www.getharvest.com/add-ons
 
-###Tracking Expenses
+### Tracking Expenses
 Track expenses in the Harvest Expense tracking section.
 
 Except for professional development expenses of less than $50, all expenses should be approved by the relevant budget owner PRIOR to being incurred.  E.G. Owen approves Delivery budget expenses, Bill approves Sales/Bizdev budget expenses and Aaron approves marketing expenses.
@@ -77,11 +88,16 @@ Here is a quick overview of the expenses feature in Harvest:
   - Upload a picture of your receipt to each entry (required)
   - Submit your expenses at the end of travel
   - EMAIL Judy that you have expenses in Harvest for her review
-  - [ADD SCREENSHOTS]
 
-###<a name="tracking-paid-time-off"></a>Tracking Paid Time Off (PTO)
+![Harvest screenshot 8](../images/harvest08.png)
 
-  We track vacation, leave and sick time and leave for employees in Harvest. There is oversight on this, but ultimately you are responsible for this accuracy. PTO will not negatively impact your billable hour percentage.
+![Harvest screenshot 9](../images/harvest09.png)
+
+![Harvest screenshot 10](../images/harvest10.png)
+
+### <a name="tracking-paid-time-off"></a>Tracking Paid Time Off (PTO)
+
+We track vacation, leave and sick time and leave for employees in Harvest. There is oversight on this, but ultimately you are responsible for this accuracy. PTO will not negatively impact your billable hour percentage.
 
 You do NOT need to log entries when the office is closed for Holiday
 
@@ -97,9 +113,9 @@ You do NOT need to log entries when the office is closed for Holiday
 - 4 hours if it's a half day
 - anything under 4 hours should not be recorded
 
-[ADD SCREENSHOT]
+![Harvest screenshot 11](../images/harvest11.png)
 
-###Harvest Phone App
+### Harvest Phone App
 
 If you are often “on-the-go” consider downloading the Harvest App.
 
