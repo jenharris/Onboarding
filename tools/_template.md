@@ -1,7 +1,7 @@
-##Title
+# Title
 
-###Introduction
+## Table of Contents
 
-###Section Heading
+## Section Heading
 
-###Section Heading
+### Section SubHeading
