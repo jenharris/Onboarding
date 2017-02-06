@@ -1,1 +1,1 @@
-## Guidelines for Starting a New Project
+# Guidelines for Starting a New Project
