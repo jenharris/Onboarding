@@ -1,13 +1,12 @@
 # PTO Request and Approval Process
 
-A team member needs PTO... Here is the PMs role in this process: 
+When a team member requests Paid Time Off (PTO), the Project Manager has a unique role in the approval process:
 
-* The team member should ask their PM if it's ok with the project schedule for them to take PTO. 
-* The PM will compare the PTO request to the project schedule and make the decision (_Note rarely is PTO declined_)
-* The PM and the team member will decide how their PTO impacts the project and discuss coverage if needed and who can do it (_ie who picks up their ticket work if needed?_)
-* After the PM approves the PTO, the team member will go through the formal request off process 
-* A delivery manager will approve the PTO via email reply, and they will request that Judy add it to the Master Calendar
-* The PM will enter the PTO into Resource Guru
-* Judy will update the Master Calendar with their PTO
-* As the date approaching, the PM & team member work through project impacts and coverage together
-* The PM & team member should be providing the rest of the team with a heads-up of the PTO as it approaches 
+1. The team member confirms with their PM that PTO plans work with the project schedule
+2. The PM compares the PTO request with the project schedule and makes the decision (_rarely is PTO declined_)
+3. The PM and the team member discuss if/how the PTO impacts the project schedule and discuss coverage if needed (_i.e. who picks up  the slack in ticket work?_)
+4. Assuming the PM approves the PTO, the team member goes through the [formal process for requesting time off](https://github.com/CivicActions/handbook#pto)
+5. The Delivery Manager approves the PTO via email reply and requests that Judy add the PTO to the Master Calendar
+6. The PM enters the PTO into Resource Guru
+7. As the PTO date approaches, the PM and the team member work through project impacts and coverage together
+8. The PM and the team member notify the rest of the team about the PTO
