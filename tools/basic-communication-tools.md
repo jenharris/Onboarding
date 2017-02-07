@@ -52,22 +52,19 @@
 
 ##### Internal
 
- * ca-team@lists.civicactions.net for all team wide communication, and important announcements (slack #announcements used often too)
- * ca-employees@lists.civicactions.net is generally low traffic and used for HR notices, etc
- * ca-[functionalgroup] -hydra, -orion -sales, -dev, -team, etc.
- * Every project has it's own list - a way to overhear each other
+ * We use ca-team@lists.civicactions.net for all team wide communication, and important announcements (slack #announcements used often too)
+ * We us ca-employees@lists.civicactions.net for HR notices, etc. (it is generally low traffic)
+ * Other email lists: ca-[functionalgroup] -hydra, -orion -sales, -dev, -team, etc.
+ * Every project has its own list - a way to overhear each other
 
-##### Client lists
+##### Client and staff lists
 
-Example:
  * teach@lists.civicactions.net (includes clients)
  * teach-int@lists.civicactions.net (just for CivicActions staff)
 
 #### Protocol
 
-To get someone's attention, put their name in all caps in subject. Or use "ALL" to get everyone's attention.
-
-Example:
+To get someone's attention, put their name in all caps in subject. Or use "ALL" to get everyone's attention. For example:
 
 * Subject: "RICHARD: are you around this afternoon?"
 * Subject: "ALL: please update your hours by EOD"
@@ -93,8 +90,6 @@ Consider using [filters](https://support.google.com/mail/answer/6579?hl=en) to h
 * Add the ["CivicActions: Out of Office"](../images/ooo-cal1.png "Out of Office Calendar") calendar
 
 ### <a name="google-hangouts"></a>Google Hangouts
-
-![alt text](../images/hangout-overview.png "Hangouts overview")
 
 #### Best Practices
 * Be on time - please! Every 10 seconds actually matters
