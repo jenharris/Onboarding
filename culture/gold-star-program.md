@@ -1,19 +1,13 @@
 # Gold Star Program
 
-"Gold Stars" are small acts of recognition and acknowledgment for being outstanding in some way. When someone does something "over and above" or deserves some recognition in some other way, give them a "Gold Star" by slacking a note to the team explaining what the commendation is for.
+"Gold Stars" are small acts of recognition and acknowledgment for fellow team members. When someone does something outstanding, "over and above," or otherwise deserves recognition, give them a "Gold Star" by Slacking a note to the team explaining what the commendation is for.
 
-How to give a gold star:
+#### How to give a Gold Star:
 
-* Send a slack message in #gold-star to the team with and the persons name and tell the awesome story. What did this person do? Why are you inspired to give them props?
+Post a Slack message in [#gold-star](https://civicactions.slack.com/messages/gold-star/details/) with the recipient's name and a story about why you are giving them a gold star. What did this person do? Why are you inspired to give them props?
 
-It's that easy. Admin contact the recipient and offer a choice of an Amazon gift card or a contribution in their name to a charity of their choosing to the recipient and ensure that they receive it.
+It's that easy. HR will contact the recipient and offer a choice of a gift card or a contribution to a charity of their choosing.
 
-We trust the CivicActions team to not abuse this by giving hundreds to each other and to use it for the purpose it was intended: to be an easy way to acknowledge someone who did something special.
+We trust the CivicActions team to use this program for its intended purpose: acknowledging someone who did something truly special (and not to abuse this program by giving out hundreds of stars).
 
-----
-
-**To nominate a colleague for a Gold Star:**
-1. Someone does something awesome, you acknowledge that by giving them a "gold star"
-2. Post to the #gold-star channel in Slack - Gold Star for <name>, telling us why they deserve the gold star
-3. That person is contacted by Admin and is awarded a giftcard 
-4. Good feelings all around - Recognition complete :)
+There is also an [#appreciations](https://civicactions.slack.com/messages/appreciations/details/) channel for doling out additional kudos.
