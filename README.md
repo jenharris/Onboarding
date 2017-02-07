@@ -1,7 +1,7 @@
 # Onboarding
 CivicActions' new employee onboarding documentation
 
-##Onboarding Checklists (WIP)
+## Onboarding Checklists (WIP)
 
 - [New Hire Checklist](https://trello.com/b/sMn9YJcO/onboarding-new-hire-checklist-draft) (for all new hires)
 - [Dev/Engineer Checklist](https://trello.com/b/bQeKK90e/onboarding-dev-engineering-new-employee-checklist-draft) (for new engineers only)
