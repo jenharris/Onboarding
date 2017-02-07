@@ -1,1 +1,1 @@
-## Offboarding a Contractor from a Project
+# Offboarding a Contractor from a Project
