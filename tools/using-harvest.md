@@ -49,9 +49,7 @@ Then:
 
 The Harvest plugin in Jira is located along the right column of a ticket. Currently it does NOT update your time in the “Jira Time Tracking” section, but only logs time in Harvest from Jira.
 
-You must add time to BOTH Harvest plugin & update the Time Tacking section in Jira.
-
-[ADD SCREENSHOTS]
+You must add time to BOTH Harvest plugin & update the Time Tracking section in Jira.
 
 ## Trello Integration
 
