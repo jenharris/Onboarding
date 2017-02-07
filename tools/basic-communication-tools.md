@@ -32,7 +32,7 @@
 
 ### Tips
 * Consider using the word "ping" to check on the availability of someone
-* You can adjust notifications / pings.
+* You can [adjust notifications](../images/slack-notifications.png "Slack Notifications") / pings.
 
 ![alt text](../images/slack-notifications.png "Slack Notifications")
 
@@ -68,16 +68,16 @@
 
 ##### Client lists
 
-Example: 
+Example:
 
  * teach@lists.civicactions.net  (includes clients)
  * teach-int@lists.civicactions.net (just for CivicActions staff)
 
 #### Protocol
 
-To get someone's attention, put their name in all caps in subject. Or use "ALL" to get everyone's attention. 
+To get someone's attention, put their name in all caps in subject. Or use "ALL" to get everyone's attention.
 
-Example: 
+Example:
 
 * Subject: "RICHARD: are you around this afternoon?"
 * Subject: "ALL: please update your hours by EOD"
@@ -102,7 +102,7 @@ Example:
 * Consider enabling "speedy meetings"
 * Reply to meeting invitations (yes, no, maybe)
 * Use the "optional" feature for attendees who are not required to attend
-* Use the "Find a Time" feature to identify a meeting time where all required participants are free. 
+* Use the "Find a Time" feature to identify a meeting time where all required participants are free.
 
 ![alt text](../images/CivicActions_Calendar_FindTime.png "Find a time")
 
@@ -136,7 +136,7 @@ Example:
 * We can invite people outside of CivicActions too
 * Add a photo to your account so it shows up in Hangout
 * Proper etiquette for hangout professionalism (background visual & noise, attire/dress, using effects, eating, muting etc)
-* It's ok to mute other each other 
+* It's ok to mute other each other
 
 #### Available Commands
 
