@@ -1,4 +1,4 @@
-## Gold Star Program
+# Gold Star Program
 
 "Gold Stars" are small acts of recognition and acknowledgment for being outstanding in some way. When someone does something "over and above" or deserves some recognition in some other way, give them a "Gold Star" by slacking a note to the team explaining what the commendation is for.
 

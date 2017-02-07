@@ -1,4 +1,4 @@
-## CivicActions' Elevator Pitch
+# CivicActions' Elevator Pitch
 
 Are you prepared for the "so, what does _your_ company do" questions? Having an elevator pitch in mind is useful, not just for conferences, but also for every day networking.
 

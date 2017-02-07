@@ -6,6 +6,7 @@
 	* [Gmail](#gmail)
 	* [Google Calendar](#google-calendar)
 	* [Google Hangouts](#hangouts)
+	* [Google Docs](#google-docs)
 - [Telephone Use](#telephone-use)
 
 ## <a name="slack"></a>Slack
@@ -31,8 +32,18 @@
 
 ### Tips
 * Consider using the word "ping" to check on the availability of someone
+* You can adjust notifications / pings.
+
+![alt text](../images/slack-notifications.png "Slack Notifications")
+
 * Wrap your text in single *asterisks* for bold, _underscores_ for italics, `grave accents` for code, and start the line with a > sign to make it a block quote. Formatting in Slack is similar to Markdown.
+
+![alt text](../images/slack-formatting.png "Slack Formatting")
+
 * To wrap single line output, use one pair of backticks ( `Your code here`). For multiple lines, wrap with three backticks (```Your code here. Some more code.```).
+
+![alt text](../images/backticks.png "Wrapping code")
+
 * Create a Google Hangout from Slack: type **/hangout** (will need to authorize the slack app in hangout too)
 * To quickly bring back the last message you sent back to the text box, just press the Up arrow key.
 
@@ -82,6 +93,9 @@ Example:
 ### Best Practices
 * Set your time zone
 * Set your working hours (& keep it current)
+
+![alt text](../images/CivicActions_Calendar_Settings.png "Calendar settings")
+
 * Set your location
 * Always send invitations to first.last@civicactions.com
 * Make sure your main first.last@civicactions.com calendar is at sharing at least free/busy with everyone in CivicActions.
@@ -89,13 +103,26 @@ Example:
 * Reply to meeting invitations (yes, no, maybe)
 * Use the "optional" feature for attendees who are not required to attend
 * Use the "Find a Time" feature to identify a meeting time where all required participants are free. 
+
+![alt text](../images/CivicActions_Calendar_FindTime.png "Find a time")
+
 * Complete the Event Details section
 * If your event is related to a ticket, then include the ticket reference in the event title (i.e. a Jira RD-19 ticket event could be "Prototype Meeting RD-19")
 * Can create the hangouts from these events
 * Consider Labs: Gentle Notifications
+
+![alt text](../images/gentlenotifications-lab.png "Gentle Notifications")
+
 * Add the "CivicActions: Out of Office" calendar
 
+![alt text](../images/ooo-cal1.png "Out of Office Calendar")
+
+
+
 ### <a name="google-hangouts"></a>Google Hangouts
+
+![alt text](../images/hangout-overview.png "Hangouts overview")
+
 #### Best Practices
 * Be on time - please! Every 10 seconds actually matters
 * We use the chat and screensharing features often
@@ -103,6 +130,9 @@ Example:
 * Use the mute button so mute is transparent to all (vs headphone muting)
 * Use some kind of headset or headphones instead of relying solely on computer mic (computer mics can sometimes create echoes)
 * Can also use the hangout to call people in via phone
+
+![alt text](../images/hangouts-phone.png "Call from hangouts")
+
 * We can invite people outside of CivicActions too
 * Add a photo to your account so it shows up in Hangout
 * Proper etiquette for hangout professionalism (background visual & noise, attire/dress, using effects, eating, muting etc)
@@ -119,6 +149,21 @@ Example:
 * /vmute - Mutes the video of the caller.
 * /unvmute - Unmutes the video of the caller.
 * /users - Displays a list of participants in the video call.
+
+![alt text](../images/hangout-shortcuts.png "Hangouts shortcuts")
+
+### <a name="google-docs"></a>Google Docs
+
+* Google Docs allows you to create and share a variety of documents such as text documents, spreadsheets, presentations, and forms.
+* Google Docs should be shared with your CivicActions email account
+* If a link is shared with you, you can add yourself to the share list so you can reference it later on
+* If it's a template, always make a COPY
+* Update default paragraph styles to match CivicActions standard styles when creating new docs to use/share
+* If you created the document, make sure the whole team can find it so you don't need to grant permissions
+
+![alt text](../images/sharing1.png "Open settings")
+![alt text](../images/sharing2.png "Advanced settings")
+![alt text](../images/sharing3.png "Select link")
 
 ## <a name="telephone-use"></a>Telephone Use
 * There are times when a phone call in may also be necessary, such as when wifi is not available or to call in to BlueJeans

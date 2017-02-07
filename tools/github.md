@@ -1,5 +1,5 @@
-## GitHub
+# GitHub
 
-### Introduction
+## Introduction
 
-### Set Up Account
+## Set Up Account
