@@ -1,7 +1,7 @@
 # CivicActions' Common Vocabulary
 
 
-* **Agile** - Any way of working that adheres to the tenets of the Agile Manifesto. Agile web development is based on iterative development, allowing for just-in-time-planning at the beginning of each sprint, and the highest value items being worked on first. The teams are self organizing and cross functional. The iterative approach minimizes risk by having something to show to stakeholders after each sprint and allowing the team to adapt to stakeholder requests to change or add requirements. 
+* **Agile** - Any way of working that adheres to the tenets of the Agile Manifesto. Agile web development is based on iterative development, allowing for just-in-time-planning at the beginning of each sprint, and the highest value items being worked on first. The teams are self organizing and cross functional. The iterative approach minimizes risk by having something to show to stakeholders after each sprint and allowing the team to adapt to stakeholder requests to change or add requirements.
 * **Agile Coach** - Individual who teaches or mentors the teams who implement Agile. The goal of an Agile coach is to help teams to produce the best results by practicing Agile.
 * **[Agile Manifesto](http://agilemanifesto.org/)** - Individuals and interactions over processes and tools. {link}
 Working software over comprehensive documentation
@@ -12,7 +12,7 @@ That is, while there is value in the items on the right, we value the items on t
 * **Agile Methodology** - See “Agile Process”. Like Process, Methodology feels static, and loses the important “inspect and adapt” aspect of how we work. The term is used within the Agile community, though, in a way that is interchangeable with Agile Process and Agile Practices.
 * **Agile Practices** - Represents our commitment to “people and interactions over processes and tools” by using the Agile tenets and placing a high value on the “inspect and adapt” aspect of how we work.
 * **Agile Anti-pattern** - way of working that is NOT Agile, but seems to be a common mistake that people make. Examples include: “We didn’t have time for QA in the sprint, so we’re doing it after the sprint.” “My ScrumMaster/Product Owner / Manager assigned me this task.”
-* **Artifacts** - Tangible items developed as part of an Agile/Scrum practice:  Burndown Chart, Product Backlog, Sprint Backlog. 
+* **Artifacts** - Tangible items developed as part of an Agile/Scrum practice:  Burndown Chart, Product Backlog, Sprint Backlog.
 * **Balance Score** - On a scale of 1 to 10, how are you doing and knowing and honoring your priorities in work, life, and spirit. A feeling.
 * **Best Practices** -  Taking what we’ve learned to be successful and continuing to apply and refine it for optimal results. This could apply to how we communicate, how we write QA tests, how we approach problems, how we code, among other things. It also applies to what we do: daily scrum calls, regression testing, using email lists, among other things. A practice is always subject to inspection and adaptation. Ideally, best practices are documented - in some place that can be easily updated when they change - so that they can be easily pointed to, learned from and reviewed. Note that best practices are not “rules” but rather “guidelines” that have been refined and found to work in many cases.
 * **Burndown Chart** - This chart is updated each day, typically by the ScrumMaster. Its purpose is to be a public and highly visible representation of remaining time/work in the sprint. CivicActions also includes a budget burndown that indicates how much time each team member has committed to within the sprint, where they should be in that commitment as of today, and where they actually are as of today.
@@ -23,7 +23,7 @@ That is, while there is value in the items on the right, we value the items on t
 * **Daily Check-in / Daily Stand-up / Daily Scrum** - A very short time-boxed meeting (usually 15 minutes) in which sprint participants answer the following questions: “What did I accomplish yesterday?”, “What will I do today?”, “Do I have any blockers impeding my progress?”  At CivicActions we prefer to extend the “What did I accomplish yesterday?” question to include “How much time did I spend?”  Ideally, this meeting takes place daily, is at the same time and location, and all team members attend.  We actively encourage our client Product Owners to attend this call.
 * **Definition of Done** - A clear list of required tasks or requirements that must be completed before an item can be called done. It is created by the team and should not change during a sprint.  
 * **Deliverable** - a tangible output, document or piece of work.  
-* **DevOps** - 
+* **DevOps** -
 * **Dot Voting** - a technique where team members list topics or items in some manner (on sticky notes, in a spreadsheet, on a Trello board).  After gathering all items, each group member has a certain number of votes that they can cast.  Items are prioritized according to the number of votes.
 * **Escalation** - A determination that a project’s success is potentially at risk, and a call for assistance to help address the blockers to the project. Frequently, but not always, related to a project’s Primary Constraint (budget, scope, or timeline).  
 * **Iteration** - A cycle of time in which some portion of a project’s sum deliverables are completed, often measured in accordance with the Sprint timeline. Iterative release is a technique used to maximize efficiency and keep work focused on the project’s objectives.
@@ -47,13 +47,13 @@ That is, while there is value in the items on the right, we value the items on t
 * **Risk Management** - The process of identifying risk, defining a response to it, and tracking it until closure.  Risks can be on a project level (estimates, time frame, budget, value, quality, impact) or on an operation level (reputation, balance sheet, retention).
 * **Roman Vote** - All team members vote thumbs up (agree), thumbs down (disagree), or thumbs neutral to assess the will of the group and decide something. See synonym: Dot Voting.
 * **Scrum** - An iterative  project framework within Agile. The framework defines roles (ScrumMaster, Product Owner and Scrum Team) and artifacts (Product Backlog, Sprint Backlog, Burndown chart) and timeboxed rituals (daily stand up, sprint planning meeting, sprint review meeting, Sprint). CivicActions’ practices are based on Scrum.
-* **ScrumMaster** - Certified ScrumMasters (CSMs) help project teams properly use Scrum, increasing the likelihood of the project's overall success. CSMs understand Scrum values, practices, and applications and provide a level of knowledge and expertise above and beyond that of typical project managers. CSMs act as "servant leaders," helping the rest of the Scrum team work together and learn the Scrum framework. CSMs also protect the team from both internal and external distractions. 
+* **ScrumMaster** - Certified ScrumMasters (CSMs) help project teams properly use Scrum, increasing the likelihood of the project's overall success. CSMs understand Scrum values, practices, and applications and provide a level of knowledge and expertise above and beyond that of typical project managers. CSMs act as "servant leaders," helping the rest of the Scrum team work together and learn the Scrum framework. CSMs also protect the team from both internal and external distractions.
 * **Sprint** - The basic unit of development in Scrum; a timeboxed effort preceded by a Sprint Planning Meeting and followed by a Sprint Retrospective. Usually 2, 3, or 4 weeks in length, determined at the outset.
 * **Sprint Backlog** - This is a subset of the Product Backlog and is defined as the work that is to be accomplished within the current sprint. The Product Owner will identify the top priorities from the Product Backlog and the team agrees which items from there they can bring to the Sprint Backlog. The items brought over are then broken down by the development team into smaller tasks if necessary and the Sprint Backlog is prioritized. No items can be added or removed from it once the sprint starts. Not everything in the Sprint Backlog may get completed in the sprint, although it is the intent.
-* **Sprint Board** - A Trello board that contains the cards of a particular Sprint’s backlog, and allows the Scrum Team to track progress from inception of work, through QA and bugfix, to “done”. The board may make reference to, but should not include, the entire Product Backlog. 
+* **Sprint Board** - A Trello board that contains the cards of a particular Sprint’s backlog, and allows the Scrum Team to track progress from inception of work, through QA and bugfix, to “done”. The board may make reference to, but should not include, the entire Product Backlog.
 * **Sprint Planning Meeting** - A meeting between the Product Owner and Scrum Team, during which the PO elects tickets/cards from the Product Backlog for inclusion in the Sprint (precondition being a backlog comprised of annotated and estimated tickets/cards). The team asks clarifying questions during this meeting in order to be able to estimate the work and write implementation plans.
-* **Sprint Review / Demo**: A timeboxed meeting in which the completed work delivered in a sprint is demonstrated. 
-* **Sprint Retrospective**: A timeboxed meeting in which the work performed and delivered in a past sprint is evaluated, and possible improvements to the team's practices are identified (hypothesized). 
+* **Sprint Review / Demo**: A timeboxed meeting in which the completed work delivered in a sprint is demonstrated.
+* **Sprint Retrospective**: A timeboxed meeting in which the work performed and delivered in a past sprint is evaluated, and possible improvements to the team's practices are identified (hypothesized).
 * **User Acceptance Testing** - The process by which a representative of the client team follows an explicit set of steps to test the requirements of the ticket in order to mark it “Done”.
 * **User Epic** - a group of related user stories
 * **User Story** - one or two sentences in everyday language that captures the who, what and why of an so: Independent, Negotiable, Valuable, Estimable, Small, Testable (INVEST) requirement: As a <role>, I want to <goal>, so that <benefit>.
@@ -66,16 +66,14 @@ Resources
 * **[Scrum Alliance](https://www.scrumalliance.org/)** - a non-profit organization offering resources, certifications, training, and support for individuals and organizations in Scrum.
 
 Words needing definitions
-* **Validated Learning** - 
-* **Hypothesis** - 
+* **Validated Learning** -
+* **Hypothesis** -
 * **Success Metric** - (or some other way of talking about metrics… such as the Lean distinction between vanity and actionable metrics)
-* **Maintenance Sprint** - 
-* **Tech Lead** - 
-* **User Experience** - 
-* **Information Architecture** - 
-* **Responsive Design** - 
-* **Outcomes** - 
+* **Maintenance Sprint** -
+* **Tech Lead** -
+* **User Experience** -
+* **Information Architecture** -
+* **Responsive Design** -
+* **Outcomes** -
 * **SDLC (Software Development Life Cycle)** - (utilizing best practices, source code control, dev-qa-live and ongoing maintenance processes)
 * **POC - Proof of Concept**
-
-
