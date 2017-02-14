@@ -7,6 +7,8 @@ https://git-scm.com/
 
 https://help.github.com/articles/git-and-github-learning-resources/
 
+See also the [Git and SSH Overview](git-ssh-overview.md).
+
 ## What's the difference between GitLab, GitHub, and Bitbucket?
 
 GitLab, GitHub, and Bitbucket are services that provides remote access to Git repositories. In addition to hosting your code, these services provide additional features designed to help manage the software development lifecycle. These additional features include managing the sharing of code between different people, bug tracking, wiki space and other tools for 'social coding'.
