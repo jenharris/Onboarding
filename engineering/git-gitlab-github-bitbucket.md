@@ -1,4 +1,4 @@
-# GitLab, GitHub, and Bitbucket
+# Git, GitLab, GitHub, and Bitbucket
 
 ## Git Overview
 
