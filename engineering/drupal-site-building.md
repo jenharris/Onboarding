@@ -9,13 +9,14 @@
 - [We build sites such that we can accommodate changing needs and requirements](#change)
 - [We treat the user stories of content editors and creators seriously](#seriously)
 - [We configure sites that are optimized for SEO](#seo)
+- [We include social media functions](#social-media)
 - [We import and export data: Feeds and Migrate](#data)
 - [We capture configuration settings in code](#settings)
 - [We build sites that are pleasant to administer](#administer)
 - [We consider Search configuration implications early in the development process](#search)
 - [We configure permissions to be as simple as possible](#perms)
 - [We use entity view modes to configure reusable displays for entities](#entities)
-- [We improve the registration/login experience](login-ux)
+- [We improve the registration/login experience](#login-ux)
 - [We are ALWAYS clear on which site is the config/content master](#master)
 - [We don't install modules we don't need, and we remove ones we no longer need](#modules)
 - [We build sites that make it easy to upload and display images and video](#media-display)
@@ -204,7 +205,9 @@ Drupal has a notoriously poor content workflow and editing experience OOTB.  The
 
 //needs content
 
-## We include social media functions
+[back to TOC](#toc)
+
+## <a name="social-media"></a>We include social media functions
 
 ### How we do this
 - AddThis / ShareThis / AddToAny are services that offer code snippets and analytics.
@@ -500,3 +503,5 @@ Useful ONLY if you don't have to change anything about it.
 
 ### When to use it
 - If you aren't going to change anything.
+
+[back to TOC](#toc)
