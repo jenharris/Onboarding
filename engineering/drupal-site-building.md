@@ -4,33 +4,33 @@
 - [We prototype high risk items first](#prototype)
 - [We use established Drupal contrib projects whenever possible](#drupal-contrib)
 - [We use Features best practices](#features)
-- [We create websites whose display layouts are customizable](#layouts)
+- [We create websites with customizable display layouts](#layouts)
 - [We configure content structure as much as we can before we configure content display](#configure)
 - [We build sites such that we can accommodate changing needs and requirements](#change)
-- We treat the user stories of content editors and creators seriously
-- We configure sites that are optimized for SEO
-- We import and export data: Feeds and Migrate
-- We capture configuration settings in code
-- We build sites that are pleasant to administer
-- We consider Search configuration implications early in the development process
-- We configure permissions to be as simple as possible
-- We use entity view modes (e.g. teaser) to configure reusable displays for entities
-- We improve the registration/login experience
-- We are ALWAYS clear on which site is the config/content master
-- We don't install modules we don't need, and we remove ones we no longer need
-- We build sites that make it easy to upload and display images and video
-- We upgrade Drupal major versions with careful consideration
-- We update to new minor versions of Drupal core
-- We configure secure text filters
-- We use Entityform instead of Webform whenever possible
-- We use/create panels layouts, rather than adding page specific layout adjustments
-- We configure streamlined and semantic markup by default
-- We set a "module budget" for a project
-- We consider various featurization strategies prior to starting a project
-- We avoid namespace conflicts
-- We use drush to update node access
-- We don't like media_gallery module
-- We don't like Drupal Commons
+- [We treat the user stories of content editors and creators seriously](#seriously)
+- [We configure sites that are optimized for SEO](#seo)
+- [We import and export data: Feeds and Migrate](#data)
+- [We capture configuration settings in code](#settings)
+- [We build sites that are pleasant to administer](#administer)
+- [We consider Search configuration implications early in the development process](#search)
+- [We configure permissions to be as simple as possible](#perms)
+- [We use entity view modes to configure reusable displays for entities](#entities)
+- [We improve the registration/login experience](login-ux)
+- [We are ALWAYS clear on which site is the config/content master](#master)
+- [We don't install modules we don't need, and we remove ones we no longer need](#modules)
+- [We build sites that make it easy to upload and display images and video](#media-display)
+- [We upgrade Drupal major versions with careful consideration](#careful-upgrades)
+- [We update to new minor versions of Drupal core](#minor-updates)
+- [We configure secure text filters](#secure-text-filters)
+- [We use Entityform instead of Webform whenever possible](#entityform)
+- [We use/create panels layouts, rather than adding page specific layout adjustments](#panels-layouts)
+- [We configure streamlined and semantic markup by default](#markup)
+- [We set a "module budget" for a project](#module-budget)
+- [We consider various featurization strategies prior to starting a project](#featurization-strategies)
+- [We avoid namespace conflicts](#avoid-conflicts)
+- [We use drush to update node access](#drush)
+- [We don't like media_gallery module](#media_gallery)
+- [We don't like Drupal Commons](#drupal-commons)
 
 ### <a name="prototype"></a>We prototype high risk items first.
 
@@ -170,7 +170,7 @@ We are agile, and we expect our clients to require agility in their website.
 
 [back to TOC](#toc)
 
-## We treat the user stories of content editors and creators seriously.
+## <a name="seriously"></a>We treat the user stories of content editors and creators seriously.
 
 Drupal has a notoriously poor content workflow and editing experience OOTB.  There are simple ways to improve this.
 
@@ -183,7 +183,7 @@ Drupal has a notoriously poor content workflow and editing experience OOTB.  The
 
 [back to TOC](#toc)
 
-## We configure sites that are optimized for SEO
+## <a name="seo"></a>We configure sites that are optimized for SEO
 
 ### Modules that are easy SEO wins
 - globalredirect
@@ -200,7 +200,7 @@ Drupal has a notoriously poor content workflow and editing experience OOTB.  The
 
 [back to TOC](#toc)
 
-## We import and export data: Feeds and Migrate
+## <a name="data"></a>We import and export data: Feeds and Migrate
 
 //needs content
 
@@ -223,7 +223,7 @@ Drupal has a notoriously poor content workflow and editing experience OOTB.  The
 
 [back to TOC](#toc)
 
-## We capture configuration settings in code.
+## <a name="settings"></a>We capture configuration settings in code.
 
 Drupal configuration settings reside in various places in the source database. We capture configuration settings in code so that those settings can be versioned and reverted, and can be transferred to other installations without being manually entered.
 
@@ -243,7 +243,7 @@ Drupal configuration settings reside in various places in the source database. W
 
 [back to TOC](#toc)
 
-## We build sites that are pleasant to administer.
+## <a name="administer"></a>We build sites that are pleasant to administer.
 
 ### We install these on all sites
 - Ctools and Views
@@ -257,7 +257,7 @@ Drupal configuration settings reside in various places in the source database. W
 
 [back to TOC](#toc)
 
-## We consider Search configuration implications early in the development process.
+## <a name="search"></a>We consider Search configuration implications early in the development process.
 
 ### Checklist
 - Drupal v Apache Solr?
@@ -267,7 +267,7 @@ Drupal configuration settings reside in various places in the source database. W
 
 [back to TOC](#toc)
 
-## We configure permissions to be as simple as possible for the user stories.
+## <a name="perms"></a>We configure permissions to be as simple as possible for the user stories.
 
 ### We consider when to use
 - field level permissions (field_permissions)
@@ -279,7 +279,7 @@ Drupal configuration settings reside in various places in the source database. W
 
 [back to TOC](#toc)
 
-## We use entity view modes (e.g. teaser) to configure reusable displays for entities, rather than duplicated views field configurations.
+## <a name="entities"></a>We use entity view modes (e.g. teaser) to configure reusable displays for entities, rather than duplicated views field configurations.
 
 We do this so we can avoid fragile duplicated configuration and emphasize consistency of display and modular CSS. There are still occasions where field based views make sense, but these are generally singletons. Part of this needs to happen in the design phase, when we're thinking about doing these displays in a modular fashion.
 
@@ -295,7 +295,7 @@ We do this so we can avoid fragile duplicated configuration and emphasize consis
 
 [back to TOC](#toc)
 
-## We improve the registration/login experience beyond default Drupal behavior.
+## <a name="login-ux"></a>We improve the registration/login experience beyond default Drupal behavior.
 
 This is a very common, important user story in Drupal that often gets ignored.
 
@@ -311,7 +311,7 @@ This is a very common, important user story in Drupal that often gets ignored.
 
 [back to TOC](#toc)
 
-## We are ALWAYS clear on which site is the config/content master.
+## <a name="master"></a>We are ALWAYS clear on which site is the config/content master.
 
 Never lose time working on the wrong site! [Hint: in nearly all cases the config/content master should be "live" from day 1.]
 
@@ -321,7 +321,7 @@ Never lose time working on the wrong site! [Hint: in nearly all cases the config
 
 [back to TOC](#toc)
 
-## We don't install modules we don't need, and we remove ones we no longer need.
+## <a name="modules"></a>We don't install modules we don't need, and we remove ones we no longer need.
 
 This means our sites are as simple, focused and performant as possible.
 
@@ -333,7 +333,7 @@ This means our sites are as simple, focused and performant as possible.
 
 [back to TOC](#toc)
 
-## We build sites that make it easy to upload and display images and video.
+## <a name="media-display"></a>We build sites that make it easy to upload and display images and video.
 
 ### How we do this
 - Insert module for inline images ... ASPCA, Rethink, etc.
@@ -343,7 +343,7 @@ This means our sites are as simple, focused and performant as possible.
 
 [back to TOC](#toc)
 
-## We upgrade Drupal major versions with careful consideration.
+## <a name="careful-upgrades"></a>We upgrade Drupal major versions with careful consideration.
 
 Why? So that we can mitigate risk and ensure a good value proposition for the client.
 
@@ -363,7 +363,7 @@ Why? So that we can mitigate risk and ensure a good value proposition for the cl
 
 [back to TOC](#toc)
 
-## We update to new minor versions of Drupal core.
+## <a name="minor-updates"></a>We update to new minor versions of Drupal core.
 
 We do this so we can resolve bugs when necessary, or address security vulnerabilities.
 
@@ -374,7 +374,7 @@ We do this so we can resolve bugs when necessary, or address security vulnerabil
 
 [back to TOC](#toc)
 
-## We configure secure text filters.
+## <a name="secure-text-filters"></a>We configure secure text filters.
 
 ### Avoid
 - Tables
@@ -383,7 +383,7 @@ We do this so we can resolve bugs when necessary, or address security vulnerabil
 
 [back to TOC](#toc)
 
-## We use Entityform instead of Webform whenever possible.
+## <a name="entityform"></a>We use Entityform instead of Webform whenever possible.
 
 Unlike Webform module, Entityform module uses Form API instead of reinventing the wheel. This makes it far more easy to integrate with other modules, particularly Rules and modules that alter entity forms. Also, it's exportable in Features.  
 
@@ -399,7 +399,7 @@ Projects where this has proven useful: RTM, Teach.
 
 [back to TOC](#toc)
 
-## We use/create panels layouts, rather than adding page specific layout adjustments.
+## <a name="panels-layouts"></a>We use/create panels layouts, rather than adding page specific layout adjustments.
 
 We do this so that layouts are cleanly separated from other visual styles, and so that they are reusable.
 
@@ -407,7 +407,7 @@ A great way to do this is to make a standalone Zen Grids layout - see https://gi
 
 [back to TOC](#toc)
 
-## We configure streamlined and semantic markup by default.
+## <a name="markup"></a>We configure streamlined and semantic markup by default.
 
 We do this so that our pages are smaller, faster and simpler to theme as well as more accessible. If wrappers turn out to be needed later in theming they are easy to add.
 
@@ -418,13 +418,13 @@ We do this so that our pages are smaller, faster and simpler to theme as well as
 
 [back to TOC](#toc)
 
-## We set a "module budget" for a project.
+## <a name="module-budget"></a>We set a "module budget" for a project.
 
 We do this to prioritize functionality and keep things maintainable and performant.
 
 [back to TOC](#toc)
 
-## We consider various featurization strategies prior to starting a project.
+## <a name="featurization-strategies"></a>We consider various featurization strategies prior to starting a project.
 
 ### Strategies
 
@@ -455,13 +455,13 @@ We do this to prioritize functionality and keep things maintainable and performa
 
 [back to TOC](#toc)
 
-## We avoid namespace conflicts.
+## <a name="avoid-conflicts"></a>We avoid namespace conflicts.
 
 We carefully consider our semantics, naming features/views/custom modules in ways that don't conflict with Drupal terms and client terms.
 
 [back to TOC](#toc)
 
-## We use drush to update node access.
+## <a name="drush"></a>We use drush to update node access.
 
 Make sure you set it to batch mode. You can use:
 
@@ -476,7 +476,7 @@ to rebuild the node access table. If you leave off TRUE, it will attempt to upda
 
 [back to TOC](#toc)
 
-## We don't like media_gallery module.
+## <a name="media_gallery"></a>We don't like media_gallery module.
 
 What it does: Allows users to upload/maintain folders of resources using Media module integration.
 
@@ -490,7 +490,7 @@ Useful ONLY if you don't have to change anything about it.
 
 [back to TOC](#toc)
 
-## We don't like Drupal Commons
+## <a name="drupal-commons"></a>We don't like Drupal Commons
 
 ### Why not
 - Unnecessary complexity for little return.
