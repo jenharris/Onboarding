@@ -33,6 +33,8 @@
 - [We don't like media_gallery module](#media_gallery)
 - [We don't like Drupal Commons](#drupal-commons)
 
+## Practices
+
 ### <a name="prototype"></a>We prototype high risk items first.
 
 We need to scope out high risk tickets to inform basic site architecture decisions. As we know more about a problem, we reduce the risk. Therefore focusing on high-risk first enables early identification of architectural obstacles and opportunities, leading to better matching of functional requirements and system architecture.
