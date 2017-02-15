@@ -30,12 +30,12 @@ The Trello boards below serve as lists of tasks for you to complete with corresp
 
 <table>
   <tr>
-    <td>Health Insurance</td>
-    <td>//link here</td>
+    <td>Health, Dental and Vision Insurance</td>
+    <td>https://login.trinet.com</td>
   </tr>
   <tr>
     <td>401K</td>
-    <td>//link here</td>
+    <td>https://www.retirementaccountlogin.net/turningpoint/</td>  
   </tr>
 </table>
 
@@ -47,4 +47,4 @@ The Trello boards below serve as lists of tasks for you to complete with corresp
 
 ### Before your first day
 
-//Information about forms, paperwork that new hires need to complete before beginning work 
+//Information about forms, paperwork that new hires need to complete before beginning work
