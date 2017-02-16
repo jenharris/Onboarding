@@ -24,7 +24,8 @@
 	- **State** — styles that deal with client-side changes to components.
 	- **Theme** — purely visual styling (“look-and-feel”) for a component.
 	- Example: 
-	```css:
+	
+```css:
  base: css/base/normalize.css css/base/elements.css
  layout: css/layout/layout.css css/layout/layout--medium.css css/layout/layout--wide.css
  component: css/components/button.css css/components/dropdown.css css/components/pagination.css css/components/tabs.css …
@@ -33,34 +34,35 @@
 * We write modular CSS that supports design components.
 * Classes should be named to reflect the intent and purpose of the design element they represent. Eg. instead of using `button--red`, we can ask "Why is the button red?" and name it `notification__button` .
 
-	``` 
-	/* Component Rules */
-	.component-name
-	.component-name--variant
-	.component-name__sub-object
-	.component-name__sub-object--variant  /* this configuration should be uncommon */
+``` 
+/* Component Rules */
+.component-name
+.component-name--variant
+.component-name__sub-object
+.component-name__sub-object--variant  /* this configuration should be uncommon */
 
-	/* Layout Rules */
-	.layout-layout-method  /* e.g. '.layout-container' */
-	.grid-*
+/* Layout Rules */
+.layout-layout-method  /* e.g. '.layout-container' */
+.grid-*
 
-	/**
-	 * State Classes
-	 *
-	 * These are always applied via JavaScript, and describe a non-default state.
-	 */
-	.is-state  /* e.g. '.is-active' */
+/**
+ * State Classes
+ *
+ * These are always applied via JavaScript, and describe a non-default state.
+ */
+.is-state  /* e.g. '.is-active' */
 
-	/**
-	 * Functional JavaScript Hooks
-	 *
-	 * When querying or manipulating the DOM from JavaScript, prefer dedicated 
-	 * classes not used for styling (or the id attribute). 
-	 * If using classes, prefix them with 'js-' to mark them for JS use. 
-	 * These 'js-' classes should not appear in stylesheets.
-	 */
-	.js-behaviour-hook  /* e.g. .js-slider, .js-dropdown */
-	 ```
+/**
+ * Functional JavaScript Hooks
+ *
+ * When querying or manipulating the DOM from JavaScript, prefer dedicated 
+ * classes not used for styling (or the id attribute). 
+ * If using classes, prefix them with 'js-' to mark them for JS use. 
+ * These 'js-' classes should not appear in stylesheets.
+ */
+.js-behaviour-hook  /* e.g. .js-slider, .js-dropdown */```
+
+
 _from [CSS Architecture for Drupal 8](https://www.drupal.org/docs/develop/standards/css/css-architecture-for-drupal-8)_
 
 
