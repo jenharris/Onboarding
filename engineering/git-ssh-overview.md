@@ -1,1 +1,0 @@
-# Git and SSH Overview
